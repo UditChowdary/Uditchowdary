@@ -1,6 +1,7 @@
 <!-- PROFILE README for uditchowdary -->
 
-# 🌌 **Udit Chowdary — Full-Stack Developer | AI Enthusiast | Cloud Learner**
+# 🌌 **Udit Chowdary**
+  Full-Stack Developer | AI Enthusiast | Cloud Learner
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=27&color=9F6AFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Udit+Chowdary!;Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Web+Apps+%26+Cool+Projects+%F0%9F%94%A5" />
