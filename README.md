@@ -70,26 +70,6 @@ Interactive pathfinding & sorting visualizer built with Flask + JS.
 
 ---
 
-# 📈 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uditchowdary&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uditchowdary&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditchowdary&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🌈 **Aesthetic Gradient Divider**
-```md
-━━━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 # 🤝 **Let’s Connect**
 
 <p align="left">
